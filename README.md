@@ -11,6 +11,4 @@ services used by hosts found were <img width="1919" height="683" alt="image" src
 
 this is the images when command used was nmap -p 1-65535 -T4 -A -v 192.168.1.0/24
 <img width="1919" height="1062" alt="image" src="https://github.com/user-attachments/assets/0db1fd2c-a397-47b0-9adc-4a5bd7e2a210" />
-
-this is the image result when command used was 
 <img width="1916" height="1050" alt="image" src="https://github.com/user-attachments/assets/fa4654d3-6cb3-4d06-b701-e9fad0547900" />
