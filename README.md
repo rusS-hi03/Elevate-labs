@@ -3,7 +3,7 @@ Tasks
 
 
 task 1 
-i used nmap(7.97) the ZenMap UI to find about the scanned ports services and hosts 
+I used nmap(7.97) the ZenMap UI to find about the scanned ports services and hosts 
 
 the ports that were found were: 21, 23,139,53,80,443,445 for the host 192.168.1.1
 
